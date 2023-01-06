@@ -1,0 +1,138 @@
+﻿
+.bgimg {
+	position: relative;
+	width: 100%;
+}
+	.bgimg img {
+		width: 100%;
+		height: auto;
+	}
+
+	.bgimg #Button1 {
+		border-radius: 5px;
+		border-style: none;
+		border-color: inherit;
+		border-width: medium;
+		position: absolute;
+		top: 50%;
+		left: 30%;
+		color: white;
+		font-weight: bold;
+		transform: translate(-50%, -50%);
+		-ms-transform: translate(-50%, -50%);
+		padding: 12px 24px;
+		cursor: pointer;
+		font-size: 16px;
+		height: 80px;
+    right: 820px;
+}
+	.bgimg #Button3 {
+		border: 2px solid white;
+		border-style: none;
+		border-color: inherit;
+		border-width: medium;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		font-weight: bold;
+		transform: translate(-50%, -50%);
+		-ms-transform: translate(-50%, -50%);
+		color: white;
+		font-size: 16px;
+		padding: 12px 24px;
+		cursor: pointer;
+		border-radius: 5px;
+		height: 80px;
+	}
+	.bgimg #Button2 {
+		border: 2px solid White;
+		border-style: none;
+		border-color: inherit;
+		border-width: medium;
+		position: absolute;
+		top: 50%;
+		font-weight: bold;
+		transform: translate(-50%, -50%);
+		-ms-transform: translate(-50%, -50%);
+		color: white;
+		font-size: 16px;
+		padding: 12px 24px;
+		cursor: pointer;
+		border-radius: 5px;
+		left: 70%;
+		height: 80px;
+	}
+	.bgimg #Button4 {
+		border: 2px solid White;
+		border-style: none;
+		border-color: inherit;
+		border-width: medium;
+		position: absolute;
+		top: 50%;
+		font-weight: bold;
+		transform: translate(-50%, -50%);
+		-ms-transform: translate(-50%, -50%);
+		color: white;
+		font-size: 16px;
+		padding: 12px 24px;
+		cursor: pointer;
+		border-radius: 5px;
+		left: 70%;
+		height: 80px;
+	}
+	.bgimg #Button5 {
+		border: 2px solid White;
+		border-style: none;
+		border-color: inherit;
+		border-width: medium;
+		position: absolute;
+		top: 50%;
+		font-weight: bold;
+		transform: translate(-50%, -50%);
+		-ms-transform: translate(-50%, -50%);
+		color: white;
+		font-size: 16px;
+		padding: 12px 24px;
+		cursor: pointer;
+		border-radius: 5px;
+		left: 70%;
+		height: 80px;
+	}
+	.bgimg #Button6 {
+		border: 2px solid White;
+		border-style: none;
+		border-color: inherit;
+		border-width: medium;
+		position: absolute;
+		top: 50%;
+		font-weight: bold;
+		transform: translate(-50%, -50%);
+		-ms-transform: translate(-50%, -50%);
+		color: white;
+		font-size: 16px;
+		padding: 12px 24px;
+		cursor: pointer;
+		border-radius: 5px;
+		left: 70%;
+		height: 80px;
+	}
+
+	.bgimg #Button1:hover {
+		background-color: deepskyblue;
+	}
+	.bgimg #Button3:hover {
+		background-color: deepskyblue;
+	}
+	.bgimg #Button2:hover {
+		background-color: deepskyblue;
+	}
+
+	.bgimg #Button4:hover {
+		background-color: deepskyblue;
+	}
+	.bgimg #Button5:hover {
+		background-color: deepskyblue;
+	}
+	.bgimg #Button6:hover {
+		background-color: deepskyblue;
+	}
